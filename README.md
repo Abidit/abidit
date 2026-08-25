@@ -1,20 +1,60 @@
 ### Hi there 👋
 
-<!--
-**Abidit/abidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+<pre>
+   .....   :.   . -*:. .::.. .*:+#####*+---::.--
+   ...:..  :.  .. .=:.  .::. .*:+##**++=-::::::-
+  ...:::. .:.......   ......  :..-------:::::::-
+  ...:::.......    .              :-===--::::::-
+ ....:+- ... ..                   .:====-:--:::-
+  ..:=*-...                        .-===-:--:.:-
+.-==-=-....  .::....  ......      ..-===-:--:.:-
+-==--=:   .-+*##**++==+++**+=-:    .-==--:--:..-
+-==:-=:   -#%%#############**++-.  .-==--::::..-
+-==:=+=:..*%#****#####%%%##***++: .-===--::::..-
+-=-:===++=###**+==+*###**+=+++++- -===---::::..-
+-=-:===+++%#*+*--=+*##*=---==+++-:-------:::..:-
+-=-:==+=+#%%###***#%%#*+++====+*=---------::. :-
+-=-:==+=*#%%%%###%%%%%#****###**=--===----::. ::
+-=-:===+*#%%%%%%###%%#***#####*+=--------:::. .:
+-=-:====+#%%%%%###****++*#####*+=:::::::::::...:
+-=-:====-*%%%%#=+**+++++++*##**=:.::::::::::...:
+-=-:-===-=%%%%#*******+===****+: .:::::::::....:
+:-:.-=+=-==##%%%%##*******#**+:  .:::::::::.....
+:==:-+**+*+=**##%%%######****. . .:::..::::.. .:
+:--..-#%*+--*#***++==++===*%@+:: .::==-:..... .:
+:=++=#@#-.:-*###**+==--+#@@@@@%%#=+%@@@%*=:.. ..
+#%@@@@@@*-::+####****#@@@@@@@@%@@%%@@@@@@@%*: ..
+@@@@@@@@@%+:-****#%@@@@@@@@@@%@@@@@@@@@@@@@@%=..
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td>
 
+<pre>
+abidit@github
+-------------------------------------------
+OS: Senior Software Engineer (Independent)
+Host: Kathmandu, Nepal
+Languages: TypeScript, React, Next.js,
+           Node.js, Express, Postgres/Supabase
+Currently: Building Sequirly (B2B DLP
+           browser extension)
+Contact: X @ShresthaAbijeet
+Repos: see live stats below ↓
+</pre>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abidit&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=false" alt="Abidit's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abidit&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
+</p>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
