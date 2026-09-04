@@ -6,6 +6,8 @@
 
 📍 Kathmandu, Nepal — **open to Dubai/UAE relocation and remote roles.**
 
+📫 [LinkedIn](https://www.linkedin.com/in/abidit-shrestha-ba6707206/) · abistha01@gmail.com
+
 ## MCP Servers & Agent Infrastructure
 
 [![npm](https://img.shields.io/npm/v/esewa-mcp.svg?label=esewa-mcp)](https://www.npmjs.com/package/esewa-mcp)
@@ -50,7 +52,3 @@ Live, deployed products I designed and shipped end-to-end:
 ## Stack
 
 TypeScript · React · Next.js · Node.js · .NET · Python · MCP · PostgreSQL · Supabase · AWS
-
-## Reach me
-
-📫 [LinkedIn](#) · abistha01@gmail.com
