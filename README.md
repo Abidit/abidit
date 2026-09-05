@@ -6,7 +6,7 @@
 
 📍 Kathmandu, Nepal — **open to Dubai/UAE relocation and remote roles.**
 
-📫 [LinkedIn](https://www.linkedin.com/in/abidit-shrestha-ba6707206/) · abistha01@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/abidit-shrestha-ba6707206/) · [Portfolio](https://abidit.github.io/grow-abidit/) · abistha01@gmail.com
 
 ## MCP Servers & Agent Infrastructure
 
@@ -34,7 +34,6 @@ Live, deployed products I designed and shipped end-to-end:
 |---|---|---|---|
 | **[EduShip](https://eduship.dev)** | Production-ready Next.js boilerplate for EdTech platforms — auth, course/lesson system, MCQ quiz engine, certificate generation, payments, pre-wired. | Next.js 16, TypeScript, Tailwind, Clerk, Supabase, Drizzle ORM, Lemon Squeezy | [eduship.dev](https://eduship.dev) |
 | **[SpectaSnap](https://spectasnap-orpin.vercel.app)** | Browser-native AR glasses try-on for optical retailers — no app install, webcam-based, with AI style recommendations. | Next.js, MediaPipe, Three.js, Claude AI | [Live demo](https://spectasnap-orpin.vercel.app) |
-| **[NomadWifi](https://nomadwifi.vercel.app)** | Map-based platform to find and share WiFi spots — filter by speed, noise level, power availability. | Next.js, Supabase, Leaflet | [Live demo](https://nomadwifi.vercel.app) |
 | **[Anatomly](https://anatomly.vercel.app)** | Interactive 3D map of the human body — explore organs, understand diseases and treatments. *(Early/experimental build.)* | React, Three.js, GSAP | [Live demo](https://anatomly.vercel.app) |
 | **[SpeedBlip](https://speedblip.netlify.app)** | Real-time internet speed monitor for developers — live charts, threshold alerts, auto-scheduler, PWA. | React, Vite, Recharts | [Live demo](https://speedblip.netlify.app) |
 
@@ -48,6 +47,15 @@ Live, deployed products I designed and shipped end-to-end:
 ## Open Source
 
 - 🔓 Reviewed, merged contribution to Meta's [`facebook/astryx`](https://github.com/facebook/astryx/pull/5321) (WCAG AA contrast fix, CLA signed).
+
+## Writing
+
+Technical writing on [dev.to](https://dev.to/abidit_shrestha_fefae4cee) — some cross-posted to [Medium](https://medium.com/@abistha01):
+
+- 📝 [Building phi-guard-mcp: Catching PHI Leaks in AI-Generated Code](https://dev.to/abidit_shrestha_fefae4cee/building-phi-guard-mcp-catching-phi-leaks-in-ai-generated-code-17m8)
+- 📝 [I built the first eSewa and Khalti MCP servers — here's how](https://dev.to/abidit_shrestha_fefae4cee/i-built-the-first-esewa-and-khalti-mcp-servers-heres-how-2d76)
+- 📝 [The bug I "fixed" that taught me more from being closed than merged](https://dev.to/abidit_shrestha_fefae4cee/the-bug-i-fixed-that-taught-me-more-from-being-closed-than-merged-3p91)
+- 📝 [Turning Complex Algorithms into Interactive Visual Stories: My Journey](https://dev.to/abidit_shrestha_fefae4cee/turning-complex-algorithms-into-interactive-visual-stories-my-journey-3l0j)
 
 ## Stack
 
